@@ -64,4 +64,7 @@
 </td>
 </tr>
 
+<tr><td>Polygon</td><td></td><td></td></tr>
+<tr><td>Path</td><td></td><td></td></tr>
+
 </table>
