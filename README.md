@@ -1,5 +1,6 @@
-# svg-examples
+# SVG Examples
 
+## Basic Shapes
 <table>
 <tr>
 <td><img src="/svg/rectangle.svg" width="100"></td>
