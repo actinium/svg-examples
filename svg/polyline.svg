@@ -13,5 +13,5 @@
         40,50
         10,50
         30,40
-        " stroke="#4792d4" fill="none" />
+        " stroke="#4792d4" stroke-width="2" fill="none" />
 </svg>
