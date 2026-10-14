@@ -1,5 +1,5 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <text x="10" y="50" fill="#323232" font-size="36">
+    <text x="50" y="60" text-anchor="middle" fill="#323232" font-size="18">
         Hello
         <tspan fill="none" stroke="#4792d4">SVG</tspan>
     </text>
