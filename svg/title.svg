@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 28" xmlns="http://www.w3.org/2000/svg">
+    <text x="50" y="20" text-anchor="middle" fill="#323232" font-size="18">
+        Hello
+        <tspan fill="none" stroke="#4792d4">SVG</tspan>
+    </text>
+</svg>
