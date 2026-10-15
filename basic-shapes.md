@@ -74,6 +74,16 @@
 </td>
 </tr>
 
-<tr><td>Path</td><td></td><td></td></tr>
+<tr>
+<td>Path</td>
+<td><img src="/svg/path.svg" width="100"></td>
+<td>
+
+```svg
+<path d="M 50 10 Q 80 20 90 50 T 50 90 T 10 60 T 50 10"/>
+```
+
+</td>
+</tr>
 
 </table>
