@@ -58,13 +58,23 @@
 
 ```svg
 <polyline points="0,50 20,50 30,40 40,60 50,10 60,90 70,50 80,50 85,40 90,50 100,50"/>
-
 ```
 
 </td>
 </tr>
 
-<tr><td>Polygon</td><td></td><td></td></tr>
+<tr>
+<td>Polygon</td>
+<td><img src="/svg/polygon.svg" width="100"></td>
+<td>
+
+```svg
+<polygon points="12,26 34,8 70,13 92,35 86,68 62,92 30,85 8,55"/>
+```
+
+</td>
+</tr>
+
 <tr><td>Path</td><td></td><td></td></tr>
 
 </table>
