@@ -1,17 +1,13 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
 
-  <g stroke="#474c4f" stroke-width="4">
+  <g fill="#1982c4">
+    <circle cx="25" cy="25" r="20"/>
+    <circle cx="75" cy="25" r="20"/>
+  </g>
 
-    <g fill="#1982c4">
-      <circle cx="25" cy="25" r="20"/>
-      <circle cx="75" cy="25" r="20"/>
-    </g>
-
-    <g fill="#6a4c93">
-      <circle cx="25" cy="75" r="20"/>
-      <circle cx="75" cy="75" r="20"/>
-    </g>
-
+  <g fill="#6a4c93">
+    <circle cx="25" cy="75" r="20"/>
+    <circle cx="75" cy="75" r="20"/>
   </g>
 
 </svg>
